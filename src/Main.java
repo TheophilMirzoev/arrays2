@@ -30,11 +30,13 @@ public class Main {
         System.out.println("Максимальная сумма трат за день составила " + maxExpense + " рублей.");
         System.out.println("Минимальная сумма трат за день составила " + minExpense + " рублей.");
 
+
         // задача 3
 
         double averageValue = (double)sum / (double)arr.length;
 
         System.out.println("Средняя сумма трат за месяц составила " + averageValue  + " рублей");
+
 
         // задача 4
 
@@ -43,14 +45,6 @@ public class Main {
 
             System.out.print(reverseFullName[i]);
         }
-
-
-
-
-
-
-
-
 
     }
 
